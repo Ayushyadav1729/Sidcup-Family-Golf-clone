@@ -9,8 +9,7 @@ It replicates the layout, animations, and feel of the original site using HTML, 
 
 ## 🚀 Demo
 
-[Live Demo](https://your-live-site-link.com)  
-*(Replace with your hosting link like Netlify/Vercel)*
+[Live Demo](https://sidcup-family-golf-ayush.netlify.app/)  
 
 ---
 
